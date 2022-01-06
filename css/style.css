@@ -20,7 +20,7 @@ body {
   font-family: "Rosarivo", serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  font-size: 21px;
+  font-size: 18px;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -53,7 +53,7 @@ h3 {
   font-family: "inter", Helvetica, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  font-size: 26px;
+  font-size: 24px;
   line-height: 1;
 }
 
@@ -344,6 +344,7 @@ h4 {
   position: relative;
   margin: 120px auto 60px auto;
   grid-template-columns: 6fr 3fr;
+  grid-template-rows: 1fr;
   grid-gap: 1rem;
   grid-template-areas:
     "image1 ."
@@ -898,7 +899,7 @@ h4 {
   position: relative;
 }
 .project__hero__logo {
-  width: 150px;
+  width: 120px;
   height: auto;
   right: 0;
   bottom: 0px;
