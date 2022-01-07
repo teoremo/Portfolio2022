@@ -67,6 +67,16 @@ h4 {
   font-weight: 400;
   text-transform: uppercase;
 }
+
+.a-text {
+	font-family: "Rosarivo";
+	text-decoration: underline;
+}
+
+.a-text:hover {
+	font-weight: bold;
+}
+
 .test{
   transform: translateZ(0); /*for older browsers*/
   will-change: transform;
