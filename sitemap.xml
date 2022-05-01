@@ -9,30 +9,39 @@
 
 <url>
   <loc>https://www.teoremo.com/</loc>
-  <lastmod>2021-02-21T23:34:41+00:00</lastmod>
+  <lastmod>2022-05-01T13:13:52+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.teoremo.com/shelter/</loc>
-  <lastmod>2021-02-21T23:34:56+00:00</lastmod>
+  <loc>https://www.teoremo.com/shelter.html</loc>
+  <lastmod>2022-05-01T13:13:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.teoremo.com/flair/</loc>
-  <lastmod>2021-02-21T23:36:52+00:00</lastmod>
+  <loc>https://www.teoremo.com/flair.html</loc>
+  <lastmod>2022-05-01T13:13:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.teoremo.com/gimble/</loc>
-  <lastmod>2021-02-21T23:36:52+00:00</lastmod>
+  <loc>https://www.teoremo.com/gimble.html</loc>
+  <lastmod>2022-05-01T13:13:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.teoremo.com/commdesign/</loc>
-  <lastmod>2021-02-21T23:36:51+00:00</lastmod>
+  <loc>https://www.teoremo.com/commdesign.html</loc>
+  <lastmod>2022-05-01T13:13:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://www.teoremo.com/src/downloads/RemondiniCV_2022.pdf</loc>
+  <lastmod>2022-05-01T13:13:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.teoremo.com/index.html</loc>
+  <lastmod>2022-05-01T13:13:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
 
 </urlset>
